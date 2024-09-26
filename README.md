@@ -61,9 +61,6 @@
 
 
 
-###
-
-<img src="https://raw.githubusercontent.com/AbdullahEmadEldin/AbdullahEmadEldin/output/snake.svg" alt="Snake animation" />
 
 ## 🙋‍♀️ Let's Connect
 
