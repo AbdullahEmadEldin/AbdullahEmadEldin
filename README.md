@@ -11,8 +11,9 @@
   <h4 align="left">• More than 1y experience in mobile application developement.</h4>
   <h4 align="left">• Eager to learn more and always get updated with new techs.</h4>
 
-  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 
-<h2 align="left">Programming Languages and Technologies:</h2>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Programming Languages and Technologies:
+</br>
 
 ###
 
