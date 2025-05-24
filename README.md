@@ -8,7 +8,7 @@
 
 <h2 align="left">☯️ About me:</h2>
   <h4 align="left">• Self taught software engineer.</h4>
-  <h4 align="left">• More than 1y experience in mobile application developement.</h4>
+  <h4 align="left">• +2y experience in mobile application developement.</h4>
   <h4 align="left">• Eager to learn more and always get updated with new techs.</h4>
 
 
